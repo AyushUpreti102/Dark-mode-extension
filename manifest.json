@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Dark Mode Ext",
+  "version": "1.0.0",
+  "description": "Enables dark mode for websites",
+  "permissions": ["activeTab", "scripting", "tabs", "storage"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
